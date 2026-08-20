@@ -1,3 +1,12 @@
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=true&fontSize=70&fontColor=0018Ff&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&strokeWidth=0&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
+</div>
+
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/joaovictor03013-svg/joaovictor03013-svg/snake-output/snake.svg" alt="Snake animation" />
+
+###
 <img width="880" height="206" alt="github-contribution-grid-snake" src="https://github.com/user-attachments/assets/cf078c0c-d6f9-486f-b84b-175b7e7152de" />
 
 <picture>
@@ -26,3 +35,4 @@
 </div>
 
 ###
+
